@@ -1,4 +1,4 @@
-#File Read & Write with Error Handling
+# File Read & Write with Error Handling
 
 This Python program reads the contents of a file, modifies the text (by converting it to uppercase), and saves the result into a new file.
 
